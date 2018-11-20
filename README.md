@@ -1,6 +1,6 @@
 # Uri-Online-Judge
 
-Soluções dos exercícios do Uri-Online-Judge.
+Soluções exercícios - Uri-Online-Judge.
 
 Meu perfil:
 
